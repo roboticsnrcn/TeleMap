@@ -13,7 +13,7 @@ void main() {
 
 	//MyGlv.StreamInfo("THUMB3", ConnStat); 
 	MyGlv.StreamInfo();
-
+	//test
 	fprintf(stderr, "THUMB x0: %.1f y0: %.1f z0: %.1f \n",
 		MyGlv.Thumb0[0], MyGlv.Thumb0[1], MyGlv.Thumb0[2]);
 
